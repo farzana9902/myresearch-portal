@@ -1,16 +1,44 @@
-# React + Vite
+# MyResearch Portal & Workshop Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive web platform connecting researchers, experts, academic institutions, and participants for research collaboration and workshop management.
 
-Currently, two official plugins are available:
+## 📸 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Login Page
+![Login Page](./public/assets/Login.png)
 
-## React Compiler
+### Registration Page
+![Registration Page](./public/assets/Register.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Home Page
+![Home Page](./public/assets/Home-page.png)
 
-## Expanding the ESLint configuration
+### Research Projects
+![Research Projects](./public/assets/Research-Project.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Upcoming Workshops
+![Workshops](./public/assets/Upcoming%20Workshops.png)
+
+### Institution Dashboard
+![Institution Dashboard](./public/assets/Institution-Dashboard.png)
+
+### Participant Dashboard
+![Participant Dashboard](./public/assets/Participation-dashboard.png)
+
+### Our Services
+![Our Services](./public/assets/Our-services.png)
+
+### Study Materials
+![Study Materials](./public/assets/Study%20Materials.png)
+
+### Experts
+![Experts](./public/assets/Experts.png)
+
+### Contact Us
+![Contact Us](./public/assets/ContactUs.png)
+
+### About
+![About](./public/assets/About.png)
+
+### Why Choose Us
+![Why Choose Us](./public/assets/Why-choose.png)

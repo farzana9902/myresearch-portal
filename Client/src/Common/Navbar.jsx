@@ -16,7 +16,7 @@ function Navbar() {
 
         {/* Navigation Links */}
         <nav>
-          <ul className="hidden md:flex items-center gap-8 text-white font-medium">
+          <ul className="hidden md:flex items-center gap-6 text-white font-medium">
             <li>
               <Link to="/" className="hover:text-yellow-300 duration-300">
                 Home
